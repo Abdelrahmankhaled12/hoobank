@@ -7,7 +7,7 @@ import dropbox from "../images/dropbox.png"
 
 const Images = () => {
     return (
-        <div className="py-[40px]">
+        <div className="py-[40px] wow animate__fadeInUp" data-wow-duration="2s">
             <div className="container">
                 <div className="grid grid-cols-4 justify-items-center items-center">
                     <div className="col-span-4 sm:col-span-2  md:col-span-2 lg:col-span-1 my-[15px]">
