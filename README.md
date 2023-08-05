@@ -1,25 +1,20 @@
-# HooBank
-
-<img src="./src/images/logo.svg">
+<p align="center">
+      <img src="./src/images/logo.svg">
+</p>
 
 ## Introduction
 
 The HooBank project is a React application consisting of a landing page.
 
-
 ## Design
-
 
 <img src="./src/images/Desktop.png">
 
-
-[Figma](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?type=design&node-id=310-485&mode=design&t=Rs4nmHtkpKF9e1nx-0).
-
+[Figma](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?type=design&node-id=310-485&mode=design&t=Rs4nmHtkpKF9e1nx-0)
 
 ## Demo
-[HooBank](https://hoobank-ab.netlify.app/).
 
-
+[HooBank](https://hoobank-ab.netlify.app/)
 
 ## Installation and Usage
 
@@ -40,8 +35,6 @@ The HooBank project is a React application consisting of a landing page.
 
 6. The application will run on http://localhost:3000. Open your browser and navigate to it to see the landing page of the application.
 
-
 ## Issues and Contributions
 
 If you have any questions or suggestions regarding the project, please open an issue in this repository.
-
