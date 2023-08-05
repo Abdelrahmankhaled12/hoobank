@@ -6,20 +6,20 @@ import SectionBusinees from "./components/SectionBusinees";
 import SectionEasilyControl from "./components/SectionEasilyControl";
 import SectionHome from "./components/SectionHome";
 import SectionService from "./components/SectionService";
-// import { useEffect } from "react"
-// import WOW from 'wowjs';
+import { useEffect } from "react"
+import WOW from 'wowjs';
 import 'animate.css/animate.css';
 import SectionPeople from "./components/SectionPeople.";
 import Header from "./components/Header";
 
 function App() {
 
-  // useEffect(() => {
-  //   const wow = new WOW.WOW({
-  //     live: false,
-  //   });
-  //   wow.init();
-  // }, []);
+  useEffect(() => {
+    const wow = new WOW.WOW({
+      live: false,
+    });
+    wow.init();
+  }, []);
 
   return (
     <div className="App bg-black  text-white overflow-hidden">
